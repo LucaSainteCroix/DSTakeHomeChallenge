@@ -1,0 +1,6 @@
+fastapi>=0.47
+pydantic>=1.2
+requests == 2.25.1
+black
+uvicorn == 0.13.3
+
